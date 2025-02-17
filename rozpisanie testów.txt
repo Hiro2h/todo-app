@@ -1,0 +1,6 @@
+Test 1 - Dodanie nowego taska
+Test 2 - Edycja danych istniejącego taska
+Test 3 - Usunięcie istniejącego taska
+Test 4 - Filtrowanie tasków
+Test 5 - Test checkbox'a zmieniającego status taska
+Test 6 - Test nietypowych danych wejściowych
