@@ -49,6 +49,7 @@
 		]
 	},
 	"devDependencies": {
+		"@playwright/test": "^1.50.1",
 		"eslint-config-wesbos": "^3.0.2"
 	}
 }
